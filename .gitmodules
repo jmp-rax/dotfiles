@@ -4,4 +4,4 @@
 	ignore = dirty
 [submodule "dotbot-apt-get"]
 	path = dotbot-apt-get
-	url = https://github.com:jmp-rax/dotbot-apt-get.git
+	url = https://github.com/jmp-rax/dotbot-apt-get.git
